@@ -30,3 +30,6 @@ A simple and user-friendly **blog website** built using **Python** and **Streaml
 ├── blog.py # Blog & comment database logic
 ├── blog_data.db # SQLite database (auto-created)
 └── README.md # This file
+
+Here is the link for the web page:
+https://blog-website-2jx8kjq3igpaq9fvovsl8p.streamlit.app/
